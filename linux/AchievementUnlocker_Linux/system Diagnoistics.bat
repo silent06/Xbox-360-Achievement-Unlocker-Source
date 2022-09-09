@@ -1,0 +1,1 @@
+dotnet add package System.Diagnostics.PerformanceCounter --version 4.5.0
