@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AchievementUnlocker_Linux</id>
+    <version>1.0.0</version>
+    <authors>AchievementUnlocker_Linux</authors>
+    <owners>AchievementUnlocker_Linux</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <licenseUrl>https://silentlive.gq/</licenseUrl>
+    <description>-Made By Silent</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1">
+        <dependency id="Microsoft.NETCore.App" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="System.Diagnostics.PerformanceCounter" version="4.5.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\creec\Desktop\silent\Achievement Unlocker\linux\Linux\linux\AchievementUnlocker_Linux\AchievementUnlocker_Linux\bin\Debug\netcoreapp2.1\AchievementUnlocker_Linux.runtimeconfig.json" target="lib\netcoreapp2.1\AchievementUnlocker_Linux.runtimeconfig.json" />
+    <file src="C:\Users\creec\Desktop\silent\Achievement Unlocker\linux\Linux\linux\AchievementUnlocker_Linux\AchievementUnlocker_Linux\bin\Debug\netcoreapp2.1\AchievementUnlocker_Linux.dll" target="lib\netcoreapp2.1\AchievementUnlocker_Linux.dll" />
+  </files>
+</package>

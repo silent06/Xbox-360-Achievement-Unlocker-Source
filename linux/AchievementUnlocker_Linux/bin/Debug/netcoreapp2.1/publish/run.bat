@@ -1,0 +1,2 @@
+dotnet AchievementUnlocker_Linux.dll
+exit
